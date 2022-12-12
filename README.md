@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Science-Helps
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning html, css, js, react, and scratch
+- 💞️ I’m looking to collaborate on a website
+- 📫 How to reach me : (EMail coming soon)
